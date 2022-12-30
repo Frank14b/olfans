@@ -58,7 +58,7 @@ const ContactComponent = () => {
                         <Col lg="12">
                           <Button
                             type="button"
-                            className="btn btn-danger-gradiant m-t-20 btn-arrow"
+                            className="btn bg-info m-t-20 btn-arrow"
                           >
                             <span>
                               {" "}
@@ -72,13 +72,13 @@ const ContactComponent = () => {
                 </Col>
                 <Col lg="4">
                   <div className="detail-box p-40 bg-info">
-                    <h2 className="text-white">Fans Custom Headquarters</h2>
+                    <h2 className="text-white">CAVIAR Headquarters</h2>
                     <p className="text-white m-t-30 op-8">
-                      251 546 9442
-                      <br /> info@Fans.com
+                      +971 58 614 6459
+                      <br /> info@caviar.com
                     </p>
                     <p className="text-white op-8">
-                      601 Sherwood Ave.
+                      12991 Sherwood Ave.
                       <br /> Dubai, UAE
                     </p>
                   </div>

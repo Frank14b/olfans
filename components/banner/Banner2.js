@@ -11,21 +11,21 @@ const Banner2 = () => {
         <Row className="">
           <Col lg="6" md="6" className="align-self-center">
             <h1 className="title">
-              You create content.
-              We get you a higher OnlyFans income.
+              <b>Caviar</b><br />
+              In caviar we serve delicasy.
             </h1>
             <h4 className="subtitle font-light">
-              Full-service OnlyFans management agency for creators committed to reaching the top 0% to 5%
+              Best in class OnlyFans marketing agency for creators committed to reaching the top 5%
             </h4>
             <a
               href="#"
-              className="btn btn-danger m-r-20 btn-md m-t-30 "
+              className="btn bg-info m-r-20 btn-md m-t-30 "
             >
               Work with us
             </a>
           </Col>
           <Col lg="6" md="6">
-            <Image src={bannerimg} alt="hero banner" />
+            <Image src={bannerimg} alt="hero banner" className="imageBannerFilter" />
           </Col>
         </Row>
       </Container>

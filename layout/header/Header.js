@@ -24,7 +24,7 @@ const Header = () => {
         <Container className="po-relative">
           <Navbar className="navbar-expand-lg h6-nav-bar">
             <NavbarBrand href="/">
-              <Image src={"/fan-svgrepo-com.svg"} height={60} width={60} alt="Fans custom" />
+              <img src={"/logo.jpeg"} height={80} width={80} alt="CAVIAR" objectFit="contain" style={{objectFit:"contain", padding: "2px", borderRadius: "50%", background: "#fff"}} />
             </NavbarBrand>
             <NavbarToggler onClick={toggle}>
               <span className="ti-menu"></span>

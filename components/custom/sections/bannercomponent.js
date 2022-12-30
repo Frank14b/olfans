@@ -12,9 +12,7 @@ const BannerComponent = () => {
             <Col md="7" className="text-center">
               <h1 className="title font-bold">Custom Information</h1>
               <h6 className="subtitle">
-                Here you can check what we created. Its quite
-                easy to Create your own dream website &amp; dashboard in
-                No-time.
+                With multi platform social media marketing we help our clients to reach maximum viewers but with a style and sense.  The 'you' as a brand, the  delcious version of yourself which you want to project to  your audience, we are here to help you and celebrate in your journey to glory.
               </h6>
             </Col>
           </Row>
@@ -29,9 +27,7 @@ const BannerComponent = () => {
               </span>
               <h1 className="title">Best in class OnlyFans marketing</h1>
               <h6 className="subtitle op-8">
-                Pellentesque vehicula eros a dui pretium ornare. Phasellus
-                congue vel quam nec luctus.In accumsan at eros in dignissim.
-                Cras sodales nisi nonn accumsan.
+                Our expert panel create tailor made plans according to your current level. Beginner to celebrity, everyone can choose there path and earn the success you always deserve.
               </h6>
               <a
                 className="btn btn-light btn-rounded btn-md m-t-20"
@@ -42,7 +38,7 @@ const BannerComponent = () => {
               </a>
             </Col>
             <Col md="6">
-              <Image src={herobanner} alt="herobanner"></Image>
+              <Image src={herobanner} alt="herobanner" className="imageBannerFilter"></Image>
             </Col>
           </Row>
         </Container>
@@ -55,9 +51,13 @@ const BannerComponent = () => {
                 What we do for you
               </h1>
               <h6 className="subtitle op-8">
-                We work on a performance basis, meaning that we only charge you if we make you money.
-
-                We don't charge any setup fees, retainer fees, or any other hidden fees.
+                starting from creating a linktree to photoshoot, videos and posting shorts reels evrything can be done by us. Its all up to your imagination and the willingness to go beyound your own limits. 
+                <br/><br/>
+                Pushing the frontier and breaking  all shackles that pulling you down.
+                Our philosophy is connecting the audience with a sense of luxury and style to the exotic and intelligent beauties of the entertainment industry in a proffesional and stream lined method of operation.
+                <br/><br/>
+                Technical excellence is one core aspect of our operational policy. with maximum security on data and asset, IT infrastrecture is build strong to take care of your explicit data and prevent data breaching.
+                We are also building a blockchain based web3 application, where your data is owned by you and only you can decide to share the data to whom and till what time.
               </h6>
             </Col>
           </Row>

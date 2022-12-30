@@ -1729,5 +1729,11 @@ a.btn-outline-success {
   overflow: auto;
   background-size: cover;
   background-position: top 20% center;
-  background-image: $c2a-image;
+  background-color: #181a1d;
+  background-blend-mode: saturation;
+}
+
+.imageBannerFilter {
+  filter: grayscale(80%) !important;
+  border-radius: 50% !important;
 }
